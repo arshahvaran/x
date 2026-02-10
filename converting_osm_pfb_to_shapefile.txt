@@ -1,0 +1,3 @@
+in OSGeo4W Shell
+cd to directory of the pbf files
+ogr2ogr -f "GPKG" europe-latest.gpkg europe-latest.osm.pbf -sql "SELECT * FROM multipolygons WHERE natural='water'" -nlt PROMOTE_TO_MULTI --config OGR_GEOMETRY_ACCEPT_UNCLOSED_RING YES
