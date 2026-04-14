@@ -4,7 +4,7 @@ import os
 # ==========================================
 # --- SET YOUR PARAMETERS HERE ---
 # ==========================================
-INPUT_FILE = r"C:\Users\arsha\OneDrive\Desktop\review_1\4ea0e7b2-225c-4daa-9ab4-26f516cf2796.txt"
+INPUT_FILE = r"C:\Users\arsha\OneDrive\Desktop\content.txt"
 LAST_LINE_NUMBER = 1335
 # ==========================================
 
