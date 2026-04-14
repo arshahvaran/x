@@ -4,7 +4,7 @@ import os
 # ==========================================
 # --- SET YOUR PARAMETERS HERE ---
 # ==========================================
-INPUT_FILE = r"C:\Users\arsha\OneDrive\Desktop\peer_review\1066293_0_merged_1771020973.txt"
+INPUT_FILE = r"C:\Users\arsha\OneDrive\Desktop\content.txt"
 LAST_LINE_NUMBER = 995
 MAX_GAP = 25  # Maximum expected missing consecutive line numbers (e.g., due to figures/tables)
 # ==========================================
