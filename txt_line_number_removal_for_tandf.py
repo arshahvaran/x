@@ -7,7 +7,7 @@ from collections import Counter
 #  CONFIGURATION  — edit these before running
 # =============================================================================
 
-INPUT_FILE = r"C:\Users\arsha\OneDrive\Desktop\TGRS-S-2026-0306_Proof_hi.txt"
+INPUT_FILE = r"C:\Users\arsha\OneDrive\Desktop\content.txt"
 
 # --- Mechanism 1: Margin line numbers ---
 # A standalone integer must appear this many times to be flagged as a margin
